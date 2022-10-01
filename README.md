@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ludmilla Blaschikoff
 - 👀 I’m interested in evolutionary biology and domestication
-- 🌱 I’m currently learning population analysis and R and bash language programming
+- 🌱 I’m currently learning population analysis, R and bash language programming
 - 💞️ I’m looking to collaborate on WGS data analysis
 - 📫 You can reach me by sending an email to ludblaschikoff@gmail.com
 
